@@ -3,3 +3,11 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+traefik:v2.10
+ghcr.io/agenta-ai/agenta-backend
+ghcr.io/agenta-ai/agenta-web
+mongo:5.0
+mongo-express
+redis:latest
+rabbitmq:3-management
